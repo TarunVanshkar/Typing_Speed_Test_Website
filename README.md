@@ -1,11 +1,7 @@
 ![image](https://github.com/TarunVanshkar/Typing_Speed_Test_Website/assets/117818351/5cf2b598-45e8-4267-8819-a283ce841c6f)# Getting Started with Create React App
-
+https://typing-geek.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Preview
-![image](https://github.com/TarunVanshkar/Typing_Speed_Test_Website/assets/117818351/ae534a3e-a67d-464c-bf52-7cf031943067)
-
-https://typing-geek.netlify.app/
 
 
 ## Available Scripts
